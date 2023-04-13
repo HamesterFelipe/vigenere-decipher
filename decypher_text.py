@@ -1,5 +1,5 @@
-from values import FREQUENCIAS
-from values import ALFABETO
+from values_en import FREQUENCIAS
+from values_en import ALFABETO
 def decifraTexto(chave, txtCifrado):
     txtClaro = ""
     offset = 0
